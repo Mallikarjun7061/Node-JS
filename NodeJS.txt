@@ -1,0 +1,26 @@
+            Json
+ Open the command prompt type npm init, it vll give u default ans.
+
+ 1.To change the name of thr aouthor :- npm config set init-author-name "abc"
+ 2.npm set init-license "aaa"
+ 3.npm init --yes is used to run the Json.
+ 
+To check default value 
+    npm config get init-author-name
+TO delete default value 
+    npm config delete init-license 
+
+
+
+
+1.What is NodeJs?
+Ans:- Node.js is a cross-platform runtime environment and library 
+for running JavaScript applications outside the browser.
+
+2.Features of Node.js
+Ans:-1. Extremely fast
+     2. Single threaded:- Node JS Platform doesn't follow the 
+                          Multi-Threaded Request/Response Stateless Model
+     3. Highly Scalable
+     4. Open source
+
