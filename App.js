@@ -26,7 +26,3 @@
 //     console.log(time + 'seconds have passed');
     
 // }, 2000);
-
-
-      
-
