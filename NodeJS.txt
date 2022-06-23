@@ -21,6 +21,22 @@ for running JavaScript applications outside the browser.
 Ans:-1. Extremely fast
      2. Single threaded:- Node JS Platform doesn't follow the 
                           Multi-Threaded Request/Response Stateless Model
-     3. Highly Scalable
-     4. Open source
+     3. Highly Scalable:-It can handle a large increase in users.
+     4. Open source:-freely to use.
 
+  
+  
+       DAY 2
+       Date 23-jun-22 
+
+1. I learnt how to push code from vscode to github directly.
+2. Completed handson on module patterns is nothing but connection of 2 js 
+3. Module pattern:-which is used to wrap a set of variables and functions together in a single scope. 
+4. module.exports.var_name = var_name is equal to there respective function.
+   module is a collection of source file
+5. EventEmitter:-Node.js allows us to create and handle custom events easily by using events module.
+    Event module includes EventEmitter class
+    which can be used to raise and handle custom events.
+6. on() function is used to callback fuction.
+7. emit() function raises thr specified event.
+8. completed the handson reading and writing the files
