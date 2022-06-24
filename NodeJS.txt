@@ -40,3 +40,22 @@ Ans:-1. Extremely fast
 6. on() function is used to callback fuction.
 7. emit() function raises thr specified event.
 8. completed the handson reading and writing the files
+
+
+     DAY 3
+     Date 24-jun-22
+ 
+1.Client and Server
+    IP addrs of client is 76.121.126.74
+    IP addrs of Server is 72.28.226.84
+2.Responce Heraders 
+   *Content-type
+   *Status
+3.Streams:-IS object it read data from a source or write data. 
+  *Writable Streams :- allow node js to write data to a stream.
+  *Readable Streams :- allow node js to read data from a stream.
+  *Duplex :- can read and write to a streams.
+4.chunk is buffer
+5.pipes:-connecting multiple streams togreather.
+6.Serving Html it is same has pipes .
+
