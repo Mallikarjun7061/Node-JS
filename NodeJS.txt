@@ -59,3 +59,29 @@ Ans:-1. Extremely fast
 5.pipes:-connecting multiple streams togreather.
 6.Serving Html it is same has pipes .
 
+    DAY 4 and DAY 5
+        Date 25-jun-22/26-jun-22
+
+1.serving-json 
+2.Basic Routing
+3.To install node expess
+   npm install express
+4.To uninstall node express
+   npm uninstall express
+5.To install node nodemon
+   npm install nodemon 
+   npm install nodemon --save 
+            --save means it save all your installed core package into the dependecy section in thr package.json file
+6.HTTP method
+  *GET :Read   
+  *POST:Create
+  *DELETE:
+  *PUT:Update/Replace
+   
+   GET:-app.get('route'.fn)
+   POST:-app.post('route'.fn)
+   DELETE:-app.delete('route'.fn)
+7.ROUTE:- Is a URL path/pattern and a function that is called to handle that pattern.
+8.Express is a web application framework feature for building web and mobile applications.
+9.EJS stands for
+  To install:-npm install ejs
